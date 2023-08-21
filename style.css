@@ -166,13 +166,18 @@ section{
 
 .about .info{
     padding-left: 40px;
+    line-height: 1.6;
 }
 .about .about-content h2{
     color: #fff;
     font-size: 26px;
     margin-bottom: 10px;
 }
-
+.about .res{
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+}
 .about .about-content p{
     padding-left: 10px;
     background:transparent ;
