@@ -1,0 +1,40 @@
+.main-container{
+    background: #000016;
+}
+.main-container .container{
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 100px
+}
+.main-container .info{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.main-container .info h1{
+    color: #4E93FF;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.main-container .img-frame{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+.main-container .img-frame img{
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
+.social-icon{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.social-icon a:hover{
+    transform: scale(1.2);
+}

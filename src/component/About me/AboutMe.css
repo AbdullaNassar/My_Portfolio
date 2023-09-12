@@ -1,0 +1,21 @@
+.about-me{
+    background: #16162B;
+    color: darkgray;
+    padding-top: 100px;
+}
+.about-me .container{
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-between;
+}
+.about-content h2{
+    margin-bottom: 30px;
+    color: white;
+}
+.about-content span{
+    color: white;
+}
+.about-me .my-image{
+    width: 200px;
+    border-radius: 10px;
+}
