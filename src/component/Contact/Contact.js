@@ -1,7 +1,7 @@
 import "./Contact.css"
 function Contact(){
     return( 
-        <div style={{paddingTop:"50px"}}>
+        <div id="contact" style={{paddingTop:"50px"}}>
             <div className="container">
             <div class="special-heading" style={{color:"#4E93FF"}}>Contact</div>
             <p style={{paddingBottom:"20px"}}>We are born to contact</p>

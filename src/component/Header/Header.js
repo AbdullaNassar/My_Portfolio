@@ -5,9 +5,9 @@ function Header(){
             <div className="container">
                 <a className="logo" href="#">Abdullah</a>
                 <div className="nav-items">
-                    <a href="#">About</a>
-                    <a href="#">Projects</a>
-                    <a href="#">Contact</a>
+                    <a href="#about">About</a>
+                    <a href="#projects">Projects</a>
+                    <a href="#contact">Contact</a>
                 </div>
             </div>
         </div>

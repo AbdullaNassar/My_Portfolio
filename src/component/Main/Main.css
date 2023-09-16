@@ -1,5 +1,6 @@
 .main-container{
     background: #000016;
+    min-height: 500px;
 }
 .main-container .container{
     color: white;
@@ -8,6 +9,7 @@
     justify-content: space-between;
     padding-top: 100px
 }
+
 .main-container .info{
     display: flex;
     flex-direction: column;
@@ -19,8 +21,8 @@
     margin-top: 10px;
 }
 .main-container .img-frame{
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     border-radius: 10px;
 }
 .main-container .img-frame img{
